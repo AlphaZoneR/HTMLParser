@@ -1,6 +1,7 @@
-# ZSOLT RESZE MEG NINCS FELTOLTVE TELSEJEN
 
-# Image Recognition
+# 1. HTMLParser
+<!-- TOC -->autoauto- [1. HTMLParser](#1-htmlparser)auto    - [1.1. Image Recognition](#11-image-recognition)auto    - [1.2. React Live with parsing in JS](#12-react-live-with-parsing-in-js)auto    - [1.3. React live with Haskell Parser](#13-react-live-with-haskell-parser)autoauto<!-- /TOC -->
+## 1.1. Image Recognition
 The image recognition part is in the **project_c** folder.
 <br>
 Create a virtual environment:
@@ -19,7 +20,7 @@ Run app:
 ```bash
 python beta_1_0_0.py
 ```
-# React Live with parsing in JS
+## 1.2. React Live with parsing in JS
 Found in **project-live** folder.
 Depends on **npm** and **node**.
 <br>
@@ -32,7 +33,7 @@ Start application:
 ```bash
 npm start
 ```
-# React live with Haskell Parser
+## 1.3. React live with Haskell Parser
 Found in **project-output-haskell** folder.
 Depends on **npm** and **node**.
 Install dependencies:
