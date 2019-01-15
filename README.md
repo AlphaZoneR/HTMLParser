@@ -1,3 +1,5 @@
+# ZSOLT RESZE MEG NINCS FELTOLTVE TELSEJEN
+
 # Image Recognition
 The image recognition part is in the **project_c** folder.
 <br>
