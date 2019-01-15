@@ -1,0 +1,7 @@
+.div-portait {
+    width: 960px;
+    margin: auto;
+    padding: 10px 10px 10px 10px;
+    height: 100vh;
+    background: red;
+}
