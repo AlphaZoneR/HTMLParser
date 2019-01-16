@@ -1,4 +1,3 @@
--- Functional parsing library from chapter 13 of Programming in Haskell,
 -- Graham Hutton, Cambridge University Press, 2016.
 
 module Parsing (module Parsing, module Control.Applicative) where
@@ -121,4 +120,3 @@ integer = token int
 
 symbol :: String -> Parser String
 symbol xs = token (string xs)
-

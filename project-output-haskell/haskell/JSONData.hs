@@ -1,4 +1,3 @@
--- json data
 module JSONData (module JSONData) where
 
 data JSON    = JSON JCollector
